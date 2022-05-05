@@ -1,3 +1,7 @@
+#Sobre o APP
+
+Essa aplicação foi criada com o objetivo de estudo, ela tem como principal funcionalidade a busca de CEP consumindo os dados da API ViaCEP
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
